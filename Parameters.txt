@@ -1,0 +1,12 @@
+name:number  value:4
+name:sum  value:10
+name:temp  value:24
+name:a   value:5
+name:T0  value:100
+name:T1  value:0
+name:T2  value:0
+name:T3  value:0
+name:T4  value:0
+name:T5  value:5
+name:T6  value:10
+name:T7  value:24

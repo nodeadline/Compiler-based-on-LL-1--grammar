@@ -1,0 +1,36 @@
+{  
+    int number;
+    int i;
+    i=10;
+    read  number;
+    float abc;
+	char bbb;
+    if(i=10||)
+    if(number>10)
+    {
+          if(number<10)
+        {
+        write (i-1);
+         }
+	else
+	{
+     	write (i+1);
+	}
+    }
+    else
+    {
+    write i;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+{  
+    int number;
+    int sum;
+    int temp;
+    int a;
+    sum=0;
+    temp=1;
+    read number;
+    for(a=1;a<=number;a=a+1)
+    {
+     sum=sum+temp;
+     temp=temp*a;
+    }
+    write sum;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

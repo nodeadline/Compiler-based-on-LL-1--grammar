@@ -1,0 +1,1 @@
+DECLARATION-ERROR  Line:1  Incorrect function / variable declaration

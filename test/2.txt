@@ -1,0 +1,28 @@
+{
+    
+/*这个是你自己编写的符合test文法的程序*/
+    /* 先写一个简单的看下变化*/
+    
+int a;
+int number;
+int i;
+i=10;
+read number;
+
+/* 
+for(i=0;i<100;i=i+1)
+{
+a = a+1;  
+write a;
+
+}
+*/
+write i;
+while(i>0)
+{
+i=i-1;
+write i;
+}
+
+}
+
